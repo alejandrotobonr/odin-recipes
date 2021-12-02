@@ -1,2 +1,3 @@
 # odin-recipes
-Nueva odisea para poder alcanzal lo que siempre he querido: "Programar"
+New odyssey to reach my eternal goal: to program
+
